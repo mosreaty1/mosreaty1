@@ -133,7 +133,6 @@ I'm driven by creating innovative solutions that solve real-world problems and h
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosreaty1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosreaty1&layout=compact&theme=radical)
 
 ---
